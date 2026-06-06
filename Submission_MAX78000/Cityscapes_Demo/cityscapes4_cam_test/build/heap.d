@@ -1,0 +1,34 @@
+/home/phoenix/ETHZ/SEM1/MLonMCU/MAXIM/ai8x-synthesis/new_synthed/cityscapes4_cam_test/build/heap.o: \
+ /home/phoenix/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Source/heap.c \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/stdint.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_default_types.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/features.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_newlib_version.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_intsup.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_stdint.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/errno.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/errno.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/reent.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_ansi.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/newlib.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/config.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/ieeefp.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_types.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_types.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/lock.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/unistd.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/unistd.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/cdefs.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/types.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/endian.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_endian.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/select.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_sigset.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_timeval.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/timespec.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_timespec.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_pthreadtypes.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/sched.h \
+ /home/phoenix/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/types.h
